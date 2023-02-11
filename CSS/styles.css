@@ -1,0 +1,108 @@
+/********************TAG SELECTORS*****************/
+a {
+  color: #C1AEFC;
+}
+
+body {
+  margin: 0;
+  background-color: #D1FFF3
+}
+
+
+div {
+  background-color: #D1FFF3;
+  margin: 0;
+  text-align: center;
+}
+
+h1 {
+  color: #C1AEFC;
+  font-size: 5.625em;
+}
+
+h2 {
+  color: #C1AEFC;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3 {
+  color: #C1AEFC;
+  font-weight: normal;
+}
+
+hr {
+  border: 1px  ;
+  border: dashed ;
+  color:#C1AEFC;
+  width: 5.5rem;
+}
+
+p {
+  margin-bottom: 30px;
+}
+
+/********************CLASS SELECTORS*****************/
+
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.bottom-container {
+  /* padding-top: 100px; */
+  background-color: #D1FFF3;
+}
+
+.btn {
+  border-radius: 10px;
+  background-color: #C1AEFC;
+  padding: 5px;
+}
+
+.contact-me {
+  margin-bottom: 10px;
+}
+
+.cooking {
+  width: 15%;
+  float: right;
+  margin-left: 30px;
+}
+
+.copyright {
+  margin-bottom: 0;
+}
+
+.crochet {
+  width: 15%;
+  float: left;
+  margin-right: 30px;
+}
+
+.profilePic {
+  border-radius: 50%;
+}
+
+.skill-row {
+  line-height: 2;
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+ }
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.top-container {
+  background-color: #D1FFF3;
+  position: relative;
+  padding-bottom: 100px;
+}
+
+/********************ID SELECTORS*****************/
